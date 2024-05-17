@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(236, 14, 14);
+}
+.undernavcolor{}
+img{width: 90px;
+    border-radius: 50%;
+}
+.section1{
+    width: 100%;
+    border: 10px solid red;
+}
+.navbar{border: 10px solid green;
+    width: 700px;
+    padding-right: 200px;
+}
